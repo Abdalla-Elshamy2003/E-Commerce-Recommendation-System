@@ -129,6 +129,4 @@ print(f'User {user_id}  Movie {movie_id} prediction: {prediction}')
 
 If you would like to contribute, please submit a pull request. Any contributions and feedback are welcomed.
 
-## Licence
-
-This project is licensed under the MIT License.
+ 
